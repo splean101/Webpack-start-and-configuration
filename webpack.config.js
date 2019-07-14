@@ -17,8 +17,8 @@ module.exports = {
       ],
       mode: "development" ,
       devServer: {
-        open: true, 
-        openPage: ""
+        open: true, // Автоматически открыть браузер после запуска webpack-dev-server
+        openPage: "" // URL при открытии браузера (пустая строка соответствует "/index.html")
   }
 };
 
