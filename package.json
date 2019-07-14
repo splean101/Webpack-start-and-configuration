@@ -1,0 +1,24 @@
+{
+  "name": "webpack-start-and-configuration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "webpack-cli": "^3.3.5",
+    "webpack": "^4.35.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/splean101/Webpack-start-and-configuration.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/splean101/Webpack-start-and-configuration/issues"
+  },
+  "homepage": "https://github.com/splean101/Webpack-start-and-configuration#readme"
+}
