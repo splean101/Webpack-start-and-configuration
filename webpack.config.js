@@ -15,7 +15,11 @@ module.exports = {
      plugins: [
         new HtmlWebpackPlugin({template: "./src/index.html"})
       ],
-      mode: "development"  
+      mode: "development" ,
+      devServer: {
+        open: true, 
+        openPage: ""
+  }
 };
 
 
