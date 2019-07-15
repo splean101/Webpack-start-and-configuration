@@ -1,3 +1,3 @@
 export function sayHi(){
-    console.log('Hello Webpack!');
+    console.log('Hello World!');
 };
